@@ -26,6 +26,9 @@ Recopilation Quantum Chemistry resources
 - OCTOPUS
 - Siesta
 - MRCC
+- MOLCAS
+- Dirac
+- MOLPRO
 
 
 # Libraries
