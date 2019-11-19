@@ -29,6 +29,7 @@ Recopilation Quantum Chemistry resources
 - MOLCAS
 - Dirac
 - MOLPRO
+- FPLO
 
 
 # Libraries
